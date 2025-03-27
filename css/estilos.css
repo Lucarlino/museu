@@ -1,0 +1,19 @@
+a:link, a:visited{
+    text-decoration: none;
+    color: orange;
+    font-size: 1.7em;
+    padding-right: 20px;
+    padding-left: 20px;
+    transition: all 0.3s ease-in-out;
+    border-radius: 5px;
+    display: inline-block;
+
+}
+
+a:hover{
+    background-color:orange;
+    color:white;
+    transform: translateY(-3px); 
+    box-shadow: 0 5px 15px rgba(255, 165, 0, 0.4); 
+}
+
